@@ -9,3 +9,5 @@ CREATE TABLE albums (
     genre VARCHAR(25) NOT NULL,
     PRIMARY KEY (id)
 );
+
+Select * from employees;
